@@ -406,7 +406,6 @@ body {
 .lightbox-arrow {
     position: absolute;
     top: 50%;
-    
     background: white;
     border: none;
     width: 3.5rem;
@@ -420,6 +419,7 @@ body {
     align-items: center;
     transition: color 0.2s;
 }
+
 
 .lightbox-arrow.prev { left: -1.75rem; }
 .lightbox-arrow.next { right: -1.75rem; }
